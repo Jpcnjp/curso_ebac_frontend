@@ -1,0 +1,59 @@
+.Titulo_Tecnologia {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+
+.imagem_tecnologia {
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+
+.Data_hora {
+    text-align: center;
+    display: block;
+    margin: auto;
+    font-size: 18px;
+}
+
+.Subtitulo_Tecnologia {
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+
+.Conteudo_Tecnologia {
+    font-weight: bold;
+    text-align: center;
+}
+
+.Titulo_Jogos {
+    color: green;
+    text-align: center;
+    font-size: 50px;
+}
+
+.Imagem_Jogos {
+    width: 600px;
+    margin: auto;
+    display: block;
+}
+
+.Subtitulo_Jogos {
+    text-align: center;
+    color: purple;
+    font-size: 30px;
+}
+
+.Imagem_Avatar {
+    width: 500px;
+    margin: auto;
+    display: block;
+}
+
+.Conteudo_Jogos {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
